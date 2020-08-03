@@ -15,9 +15,9 @@
 a.own-links {
   text-decoration: none !important;
 }
-a:link,
-a:hover,
-a:visited
+a.black:link,
+a.black:hover,
+a.black:visited
 {
     color: black !important;
 }
